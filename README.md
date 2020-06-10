@@ -1,2 +1,4 @@
 # heisenbug_piter_2020
-Здесь появится презентация и примеры кода
+Presentation and code examples for heisenbug piter(online) 2020
+
+TBD
